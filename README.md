@@ -59,5 +59,5 @@ This is a simple school management system API built with Flask and Flask_RestX b
 - Add more features to the API
 
 ## License
-[MIT](license)
+[MIT](LICENSE)
 
