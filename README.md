@@ -30,6 +30,7 @@ This is a simple school management system API built with Flask and Flask_RestX b
 - Create a virtual environment `python3 -m venv venv` or with `virtualenv venv`
 - Install the requirements `pip install -r requirements.txt`
 - Run the application `python3 runserver.py`
+- Initialize the database `Flask --app api db init`
 
 
 ## Usage
