@@ -58,6 +58,9 @@ This is a simple school management system API built with Flask and Flask_RestX b
 ## Upcoming Features
 - Add more tests / Improve tests (some tests are failing)
 - Add more features to the API
+- Add more documentation to the API
+- Add more features to the Admin dashboard
+- Update to Postgres database instead of SQLite for production
 
 ## License
 [MIT](https://github.com/Digitalguyco/Flask_Sch_mgt/blob/master/LICENCE)
