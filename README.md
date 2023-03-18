@@ -59,9 +59,4 @@ This is a simple school management system API built with Flask and Flask_RestX b
 - Add more features to the API
 
 ## License
-[MIT](#LICENSE)
-MIT License
-
-Copyright (c) 2023 Ikekwem Daniel
-
-Permission is hereby granted, free of charge, to any person obtaining a copy.....
+[MIT](https://github.com/Digitalguyco/Flask_Sch_mgt/blob/master/LICENCE)
